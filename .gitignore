@@ -1,0 +1,9 @@
+from os import environ
+.venv
+venv
+
+.idea
+idea
+
+.env
+env
